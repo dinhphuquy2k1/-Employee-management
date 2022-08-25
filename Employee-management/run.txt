@@ -1,0 +1,4 @@
+B1: Chạy backend C# trong folder api
+B2: Mở folder vue
+-  Trong terminal gõ npm i để tải các thư viện về
+- Tiếp theo gõ npm run serve để chạy file
